@@ -1,0 +1,16 @@
+D:\MVCProject\CoreNewsProject\MyCms.Utilities\bin\Debug\netstandard2.0\MyCms.Utilities.deps.json
+D:\MVCProject\CoreNewsProject\MyCms.Utilities\bin\Debug\netstandard2.0\MyCms.Utilities.dll
+D:\MVCProject\CoreNewsProject\MyCms.Utilities\bin\Debug\netstandard2.0\MyCms.Utilities.pdb
+D:\MVCProject\CoreNewsProject\MyCms.Utilities\obj\Debug\netstandard2.0\MyCms.Utilities.AssemblyInfoInputs.cache
+D:\MVCProject\CoreNewsProject\MyCms.Utilities\obj\Debug\netstandard2.0\MyCms.Utilities.AssemblyInfo.cs
+D:\MVCProject\CoreNewsProject\MyCms.Utilities\obj\Debug\netstandard2.0\MyCms.Utilities.dll
+D:\MVCProject\CoreNewsProject\MyCms.Utilities\obj\Debug\netstandard2.0\MyCms.Utilities.pdb
+D:\MVCProject\CoreNewsProject\MyCms.Utilities\obj\Debug\netstandard2.0\MyCms.Utilities.csproj.CoreCompileInputs.cache
+D:\Project\MVCProject\CoreNewsProject\MyCms.Utilities\bin\Debug\netstandard2.0\MyCms.Utilities.deps.json
+D:\Project\MVCProject\CoreNewsProject\MyCms.Utilities\bin\Debug\netstandard2.0\MyCms.Utilities.dll
+D:\Project\MVCProject\CoreNewsProject\MyCms.Utilities\bin\Debug\netstandard2.0\MyCms.Utilities.pdb
+D:\Project\MVCProject\CoreNewsProject\MyCms.Utilities\obj\Debug\netstandard2.0\MyCms.Utilities.csprojAssemblyReference.cache
+D:\Project\MVCProject\CoreNewsProject\MyCms.Utilities\obj\Debug\netstandard2.0\MyCms.Utilities.AssemblyInfoInputs.cache
+D:\Project\MVCProject\CoreNewsProject\MyCms.Utilities\obj\Debug\netstandard2.0\MyCms.Utilities.AssemblyInfo.cs
+D:\Project\MVCProject\CoreNewsProject\MyCms.Utilities\obj\Debug\netstandard2.0\MyCms.Utilities.dll
+D:\Project\MVCProject\CoreNewsProject\MyCms.Utilities\obj\Debug\netstandard2.0\MyCms.Utilities.pdb

@@ -1,0 +1,29 @@
+﻿@model MyCms.DomainClasses.Page.Page
+@{
+    ViewData["Title"] = "ShowNews";
+}
+
+<section class="single-news border-radius">
+    <header><h2> @Model.PageTitle   </h2> <span> <i class="fa fa-calendar"></i>  انتشار : @Model.RecordDate</span></header>
+    <article>
+        <p>
+            @Model.PageShortDesc
+        </p>
+        <p>
+            @Model.PageText
+        </p>
+        @if (Model.PageImageName != null)
+        {
+            <div>
+                <img src="~/PageImages/@Model.PageImageName" alt="@Model.PageTitle" class="thumbnail" />
+            </div>
+        }
+    </article>
+</section>
+<div class="keywords border-radius">
+    @foreach (var item in Model.PageTags.Split('-'))
+    {
+        <a href="/Search?q=@item"> @item</a>
+    }
+
+</div>

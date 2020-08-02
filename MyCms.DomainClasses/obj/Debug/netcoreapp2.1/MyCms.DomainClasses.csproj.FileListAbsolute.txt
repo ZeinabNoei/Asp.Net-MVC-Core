@@ -1,0 +1,16 @@
+D:\MVCProject\CoreNewsProject\MyCms.DomainClasses\bin\Debug\netcoreapp2.1\MyCms.DomainClasses.deps.json
+D:\MVCProject\CoreNewsProject\MyCms.DomainClasses\bin\Debug\netcoreapp2.1\MyCms.DomainClasses.dll
+D:\MVCProject\CoreNewsProject\MyCms.DomainClasses\bin\Debug\netcoreapp2.1\MyCms.DomainClasses.pdb
+D:\MVCProject\CoreNewsProject\MyCms.DomainClasses\obj\Debug\netcoreapp2.1\MyCms.DomainClasses.AssemblyInfoInputs.cache
+D:\MVCProject\CoreNewsProject\MyCms.DomainClasses\obj\Debug\netcoreapp2.1\MyCms.DomainClasses.AssemblyInfo.cs
+D:\MVCProject\CoreNewsProject\MyCms.DomainClasses\obj\Debug\netcoreapp2.1\MyCms.DomainClasses.dll
+D:\MVCProject\CoreNewsProject\MyCms.DomainClasses\obj\Debug\netcoreapp2.1\MyCms.DomainClasses.pdb
+D:\MVCProject\CoreNewsProject\MyCms.DomainClasses\obj\Debug\netcoreapp2.1\MyCms.DomainClasses.csproj.CoreCompileInputs.cache
+D:\Project\MVCProject\CoreNewsProject\MyCms.DomainClasses\bin\Debug\netcoreapp2.1\MyCms.DomainClasses.deps.json
+D:\Project\MVCProject\CoreNewsProject\MyCms.DomainClasses\bin\Debug\netcoreapp2.1\MyCms.DomainClasses.dll
+D:\Project\MVCProject\CoreNewsProject\MyCms.DomainClasses\bin\Debug\netcoreapp2.1\MyCms.DomainClasses.pdb
+D:\Project\MVCProject\CoreNewsProject\MyCms.DomainClasses\obj\Debug\netcoreapp2.1\MyCms.DomainClasses.AssemblyInfoInputs.cache
+D:\Project\MVCProject\CoreNewsProject\MyCms.DomainClasses\obj\Debug\netcoreapp2.1\MyCms.DomainClasses.AssemblyInfo.cs
+D:\Project\MVCProject\CoreNewsProject\MyCms.DomainClasses\obj\Debug\netcoreapp2.1\MyCms.DomainClasses.dll
+D:\Project\MVCProject\CoreNewsProject\MyCms.DomainClasses\obj\Debug\netcoreapp2.1\MyCms.DomainClasses.pdb
+D:\Project\MVCProject\CoreNewsProject\MyCms.DomainClasses\obj\Debug\netcoreapp2.1\MyCms.DomainClasses.csprojAssemblyReference.cache

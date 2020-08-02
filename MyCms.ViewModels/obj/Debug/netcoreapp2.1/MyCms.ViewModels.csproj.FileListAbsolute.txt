@@ -1,0 +1,16 @@
+D:\MVCProject\CoreNewsProject\MyCms.ViewModels\bin\Debug\netcoreapp2.1\MyCms.ViewModels.deps.json
+D:\MVCProject\CoreNewsProject\MyCms.ViewModels\bin\Debug\netcoreapp2.1\MyCms.ViewModels.dll
+D:\MVCProject\CoreNewsProject\MyCms.ViewModels\bin\Debug\netcoreapp2.1\MyCms.ViewModels.pdb
+D:\MVCProject\CoreNewsProject\MyCms.ViewModels\obj\Debug\netcoreapp2.1\MyCms.ViewModels.AssemblyInfoInputs.cache
+D:\MVCProject\CoreNewsProject\MyCms.ViewModels\obj\Debug\netcoreapp2.1\MyCms.ViewModels.AssemblyInfo.cs
+D:\MVCProject\CoreNewsProject\MyCms.ViewModels\obj\Debug\netcoreapp2.1\MyCms.ViewModels.dll
+D:\MVCProject\CoreNewsProject\MyCms.ViewModels\obj\Debug\netcoreapp2.1\MyCms.ViewModels.pdb
+D:\MVCProject\CoreNewsProject\MyCms.ViewModels\obj\Debug\netcoreapp2.1\MyCms.ViewModels.csproj.CoreCompileInputs.cache
+D:\Project\MVCProject\CoreNewsProject\MyCms.ViewModels\bin\Debug\netcoreapp2.1\MyCms.ViewModels.deps.json
+D:\Project\MVCProject\CoreNewsProject\MyCms.ViewModels\bin\Debug\netcoreapp2.1\MyCms.ViewModels.dll
+D:\Project\MVCProject\CoreNewsProject\MyCms.ViewModels\bin\Debug\netcoreapp2.1\MyCms.ViewModels.pdb
+D:\Project\MVCProject\CoreNewsProject\MyCms.ViewModels\obj\Debug\netcoreapp2.1\MyCms.ViewModels.csprojAssemblyReference.cache
+D:\Project\MVCProject\CoreNewsProject\MyCms.ViewModels\obj\Debug\netcoreapp2.1\MyCms.ViewModels.AssemblyInfoInputs.cache
+D:\Project\MVCProject\CoreNewsProject\MyCms.ViewModels\obj\Debug\netcoreapp2.1\MyCms.ViewModels.AssemblyInfo.cs
+D:\Project\MVCProject\CoreNewsProject\MyCms.ViewModels\obj\Debug\netcoreapp2.1\MyCms.ViewModels.dll
+D:\Project\MVCProject\CoreNewsProject\MyCms.ViewModels\obj\Debug\netcoreapp2.1\MyCms.ViewModels.pdb
